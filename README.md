@@ -39,8 +39,16 @@ Dataset can be accessed via this link [Complete Datasets](https://datasets.wri.o
 
 
 ## Methodology
+All data processing, exploration and visualization will be conducted using Python notebooks hosted in Google Colab (a free service available to all Google users). The material is available as a tool to further explore the topics and learn about noise pollution in particular, and data science in general. Notebooks will open in Colab, where you can see the research methodology performed on the dataset; notebooks also allow you to tweak them to further explore the data on you own.
 
-**The notebooks:** [Noise Pollution Prishtina](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Noise_Pollution_HS.ipynb)
+The data science methodology involves the following:
+
+- Data loading: Load the dataset into the Python notebook using a library like Pandas. The dataset should contain power plant data such as: Name of powerplant, geolocation, country, capacity in MegaWatts, primary fuel, GWH production for the year 2020.
+- Data cleaning: Check for missing or duplicate values in the dataset and remove or impute them as necessary. Also, check for outliers in the data and remove them if they are not meaningful.
+- Exploratory data analysis (EDA): Explore the dataset using visualization techniques to understand the patterns and relationships in the data. Plotting histograms, line plots, and scatterplots can help you identify patterns, correlations, and distributions in the data. Use visualizations to understand the distribution of renewable powerplants in the world, and explore the relative capacitites of regional production.
+- Visualization: Use visualizations to present the results of the exploration, create interactive maps showing areas of interest, or provide visualizations that help users understand the global landscape of energy production.
+
+**The notebooks:** [Global Poer Plants](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Noise_Pollution_HS.ipynb)
 
 ## First Results
 
