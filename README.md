@@ -8,6 +8,7 @@ The objective of this data science project is to analyze global renewable energy
 
 ![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/a347485dceb377697ecf28cd4203b312095e4753/Graphics/balkanenergy.png)
 
+![noisePRI](https://github.com/sepse/Global-Renewable-Energy/blob/main/Graphics/balkanmap.png)
 
 ![mapped](https://github.com/sepse/Global-Renewable-Energy/blob/a347485dceb377697ecf28cd4203b312095e4753/Graphics/balkanmap.png)
 
