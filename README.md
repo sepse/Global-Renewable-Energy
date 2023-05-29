@@ -56,10 +56,10 @@ Global capacity in generating renewable energy
 ![primary](https://github.com/sepse/Global-Renewable-Energy/blob/0961e0898026870a373dd7a6c80469e69a6e0ba3/Graphics/newplot.png)
 
 Primary fuel
-
 ![primary](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/primaryfuel.png)
 
 Balkan snapshot
+
 ![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanenergy.png)
 
 Mapped balkan renewable power plants
