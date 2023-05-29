@@ -16,14 +16,13 @@ Renewable energy comes from sources or processes that are constantly replenished
 
 Renewable sources are often associated with green energy and clean energy, but there are some subtle differences between these three energy types. Where renewable sources are those that are recyclable, clean energy are those that do not release pollutants like carbon dioxide, and green energy is that which comes from natural sources. While there is often cross-over between these energy types, not all types of renewable energy are actually fully clean or green. For example, some hydroelectric sources can actually damage natural habitats and cause deforestation.
 
-Types
-
-Solar Power
-Wind Power
-Hydroelectric Power
-Biomass Energy
-Geothermal
-Tidal Power
+Types: 
+- Solar Power
+- Wind Power
+- Hydroelectric Power
+- Biomass Energy
+- Geothermal
+- Tidal Power
 
 Renewable energy offers a range of benefits including offering a freely available source of energy generation. As the sector grows there has also been a surge in job creation to develop and install the renewable energy solutions of tomorrow. Renewable sources also offer greater energy access in developing nations and can reduce energy bills too.
 
