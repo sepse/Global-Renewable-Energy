@@ -1,4 +1,4 @@
-# Global Renewable Energy :earth_africa::closed_book::sunny:
+# Global Renewable Energy :earth_africa: :recycle: :sunny:
 A data science research project, analyzing global renewable energy production
 
 # Objective
