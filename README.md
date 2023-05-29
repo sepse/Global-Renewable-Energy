@@ -58,9 +58,6 @@ Global capacity in generating renewable energy
 Who's who?
 ![global](https://github.com/sepse/Global-Renewable-Energy/blob/677402e341ca69616e224a943ff444c8d40fd322/Graphics/globalbar.png)
 
-Primary fuel
-![primary](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/primaryfuel.png)
-
 Balkan snapshot
 
 ![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanenergy.png)
