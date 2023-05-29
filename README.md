@@ -33,6 +33,9 @@ Of course, one of the largest benefits of renewable energy is that much of it al
 However, these green benefits are not the sole preserve of renewable energy sources. Nuclear power is also a zero-carbon energy source, since it generates or emits very low levels of CO2. Some favour nuclear energy over resources such as solar and wind, since nuclear power is a stable source that is not reliant on weather conditions. Which brings us onto some of the disadvantages of renewable energy.
 [Source](https://www.twi-global.com/technical-knowledge/faqs/renewable-energy)
 
+
+![primary](https://github.com/sepse/Global-Renewable-Energy/blob/main/Graphics/Graphics/newplot.png)
+
 ## Data
 The Global Power Plant Database is a comprehensive, open source database of power plants around the world. It centralizes power plant data to make it easier to navigate, compare and draw insights for one’s own analysis. The database covers approximately 35,000 power plants from 167 countries and includes thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar). Each power plant is geolocated and entries contain information on plant capacity, generation, ownership, and fuel type.
 
