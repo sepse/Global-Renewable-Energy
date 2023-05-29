@@ -34,7 +34,7 @@ However, these green benefits are not the sole preserve of renewable energy sour
 [Source](https://www.twi-global.com/technical-knowledge/faqs/renewable-energy)
 
 
-![primary](https://github.com/sepse/Global-Renewable-Energy/blob/main/Graphics/Graphics/newplot.png)
+![primary](https://github.com/sepse/Global-Renewable-Energy/blob//7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/Graphics/newplot.png)
 
 ## Data
 The Global Power Plant Database is a comprehensive, open source database of power plants around the world. It centralizes power plant data to make it easier to navigate, compare and draw insights for one’s own analysis. The database covers approximately 35,000 power plants from 167 countries and includes thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar). Each power plant is geolocated and entries contain information on plant capacity, generation, ownership, and fuel type.
@@ -59,8 +59,8 @@ The data science methodology involves the following:
 
 
 
-![primary](https://github.com/sepse/Global-Renewable-Energy/blob/main/Graphics/Graphics/primaryfuel.png)
+![primary](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/primaryfuel.png)
 
-![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/main/Graphics/Graphics/balkanenergy.png)
+![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanenergy.png)
 
-![mapped](https://github.com/sepse/Global-Renewable-Energy/blob/main/Graphics/balkanmap.png)
+![mapped](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanmap.png)
