@@ -7,9 +7,6 @@ A data science research project, analyzing global renewable energy production
 The objective of this data science project is to analyze global renewable energy production from different sources such as solar, wind, geothermal, and hydroelectric power. By using big data analytics techniques, we aim to gain insights into the current trends and patterns associated with each source. This analysis is crucial because the development of clean energy resources is essential for addressing climate change and promoting sustainability worldwide. Understanding how these technologies perform at large scales helps policymakers make informed decisions related to energy infrastructure investments, which ultimately impacts both economic growth and environmental preservation. With this research, we hope to contribute towards building a more resilient future through better use of natural resources.
 
 
-
-
-
 [Sensor Channel](https://thingspeak.com/channels/1922620)
 
 ## What is Renewable Energy?
@@ -34,8 +31,6 @@ However, these green benefits are not the sole preserve of renewable energy sour
 [Source](https://www.twi-global.com/technical-knowledge/faqs/renewable-energy)
 
 
-![primary](https://github.com/sepse/Global-Renewable-Energy/blob/0961e0898026870a373dd7a6c80469e69a6e0ba3/Graphics/newplot.png)
-
 ## Data
 The Global Power Plant Database is a comprehensive, open source database of power plants around the world. It centralizes power plant data to make it easier to navigate, compare and draw insights for one’s own analysis. The database covers approximately 35,000 power plants from 167 countries and includes thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar). Each power plant is geolocated and entries contain information on plant capacity, generation, ownership, and fuel type.
 
@@ -57,10 +52,15 @@ The data science methodology involves the following:
 
 ## First Results
 
+Global capacity in generating renewable energy
+![primary](https://github.com/sepse/Global-Renewable-Energy/blob/0961e0898026870a373dd7a6c80469e69a6e0ba3/Graphics/newplot.png)
 
+Primary fuel
 
 ![primary](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/primaryfuel.png)
 
+Balkan snapshot
 ![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanenergy.png)
 
+Mapped balkan renewable power plants
 ![mapped](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanmap.png)
