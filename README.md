@@ -53,10 +53,10 @@ The data science methodology involves the following:
 ## First Results
 
 Global capacity in generating renewable energy
-![primary](https://github.com/sepse/Global-Renewable-Energy/blob/0961e0898026870a373dd7a6c80469e69a6e0ba3/Graphics/newplot.png)
+![newplot](https://github.com/sepse/Global-Renewable-Energy/blob/0961e0898026870a373dd7a6c80469e69a6e0ba3/Graphics/newplot.png)
 
 Who's who?
-![primary](https://github.com/sepse/Global-Renewable-Energy/blob/0961e0898026870a373dd7a6c80469e69a6e0ba3/Graphics/globalbar.png)
+![global](https://github.com/sepse/Global-Renewable-Energy/blob/677402e341ca69616e224a943ff444c8d40fd322/Graphics/globalbar.png)
 
 Primary fuel
 ![primary](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/primaryfuel.png)
