@@ -64,5 +64,12 @@ Balkan snapshot
 Mapped balkan renewable power plants
 ![mapped](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanmap.png)
 
+Trough this research we have: 
+
+- Assess Renewable Energy Capacity: The dataset will provide information on the capacity of renewable energy power plants in the Balkan countries. By analyzing this data, the project can determine the total installed capacity of solar, wind, geothermal, and hydroelectric power sources, both individually and combined. This assessment will help understand the overall renewable energy landscape in the region.
+
+- Identify Dominant Renewable Energy Sources: Through data exploration and visualization techniques, the project can identify the predominant renewable energy sources within the Balkan countries. By determining the proportion of each energy source in the total capacity, it will be possible to highlight the region's strengths and weaknesses in terms of renewable energy production.
+
+- Spatial Analysis: Leveraging the location data available in the dataset, the project can perform spatial analysis to visualize the distribution of renewable energy power plants across the Balkan countries. This analysis will help identify geographical patterns, clusters, and areas with untapped potential for renewable energy development.
 
 ***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.***
