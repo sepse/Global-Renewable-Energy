@@ -72,4 +72,12 @@ Trough this research we have:
 
 - Spatial Analysis: Leveraging the location data available in the dataset, the project can perform spatial analysis to visualize the distribution of renewable energy power plants across the Balkan countries. This analysis will help identify geographical patterns, clusters, and areas with untapped potential for renewable energy development.
 
+But also:
+
+Analyzing global renewable energy production in Balkan countries holds several key importance:
+
+- Environmental Impact: Renewable energy sources offer a cleaner alternative to fossil fuels, significantly reducing greenhouse gas emissions and mitigating climate change. Assessing renewable energy production in the Balkan region can help quantify the environmental impact and determine its contribution to global efforts in achieving sustainable development goals.
+
+- Energy Security and Independence: By exploring the renewable energy capacity, the project can identify potential opportunities for Balkan countries to decrease their reliance on imported fossil fuels. This analysis can contribute to enhancing energy security, reducing dependence on external energy sources, and promoting regional energy independence.
+
 ***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.***
