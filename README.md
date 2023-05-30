@@ -82,4 +82,4 @@ Analyzing global renewable energy production in Balkan countries holds several k
 
 ***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.***
 
-**The notebooks:** [Global Power Plants](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Noise_Pollution_HS.ipynb)
+**The Notebooks:** [Global Power Plants](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Noise_Pollution_HS.ipynb)
