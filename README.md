@@ -63,3 +63,6 @@ Balkan snapshot
 
 Mapped balkan renewable power plants
 ![mapped](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanmap.png)
+
+
+***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.***
