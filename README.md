@@ -81,3 +81,5 @@ Analyzing global renewable energy production in Balkan countries holds several k
 - Energy Security and Independence: By exploring the renewable energy capacity, the project can identify potential opportunities for Balkan countries to decrease their reliance on imported fossil fuels. This analysis can contribute to enhancing energy security, reducing dependence on external energy sources, and promoting regional energy independence.
 
 ***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.***
+
+**The notebooks:** [Global Power Plants](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Noise_Pollution_HS.ipynb)
