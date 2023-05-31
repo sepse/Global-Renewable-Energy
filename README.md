@@ -61,21 +61,16 @@ In the Balkans, Albania stands out as the leading producer of renewable energy, 
 
 ![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanenergy.png)
 
-### Mapped balkan renewable power plants
+ ### Mapped Balkan renewable power plants
+By leveraging the location data available in the dataset, the project can perform spatial analysis to visualize the distribution of renewable energy power plants across the Balkan countries. This analysis will help identify geographical patterns, clusters, and areas with untapped potential for renewable energy development.
 
 ![mapped](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanmap.png)
 
-Trough this research we have: 
+Trough this research we have achieved the following: 
 
-- Assess Renewable Energy Capacity: The dataset will provide information on the capacity of renewable energy power plants in the Balkan countries. By analyzing this data, the project can determine the total installed capacity of solar, wind, geothermal, and hydroelectric power sources, both individually and combined. This assessment will help understand the overall renewable energy landscape in the region.
+- Assessed Global Renewable Energy Capacity: The dataset will provide information on the capacity of renewable energy power plants in the world in general, and the Balkan countries in particular. By analyzing this data, the project can determine the total installed capacity of solar, wind, geothermal, and hydroelectric power sources, both individually and combined. This assessment will help understand the overall renewable energy landscape in the region.
 
-- Identify Dominant Renewable Energy Sources: Through data exploration and visualization techniques, the project can identify the predominant renewable energy sources within the Balkan countries. By determining the proportion of each energy source in the total capacity, it will be possible to highlight the region's strengths and weaknesses in terms of renewable energy production.
-
-- Spatial Analysis: Leveraging the location data available in the dataset, the project can perform spatial analysis to visualize the distribution of renewable energy power plants across the Balkan countries. This analysis will help identify geographical patterns, clusters, and areas with untapped potential for renewable energy development.
-
-But also:
-
-Analyzing global renewable energy production in Balkan countries holds several key importance:
+- Identified Dominant Renewable Energy Sources: Through data exploration and visualization techniques, the project can identify the predominant renewable energy sources within the Balkan countries. By determining the proportion of each energy source in the total capacity, it will be possible to highlight the region's strengths and weaknesses in terms of renewable energy production.
 
 - Environmental Impact: Renewable energy sources offer a cleaner alternative to fossil fuels, significantly reducing greenhouse gas emissions and mitigating climate change. Assessing renewable energy production in the Balkan region can help quantify the environmental impact and determine its contribution to global efforts in achieving sustainable development goals.
 
