@@ -62,7 +62,7 @@ In the Balkans, Albania stands out as the leading producer of renewable energy, 
 ![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanenergy.png)
 
  ### Mapped Balkan renewable power plants
-By leveraging the location data available in the dataset, the project can perform spatial analysis to visualize the distribution of renewable energy power plants across the Balkan countries. This analysis will help identify geographical patterns, clusters, and areas with untapped potential for renewable energy development.
+By leveraging the location data available in the dataset, we can perform spatial analysis to visualize the distribution of renewable energy power plants across the Balkan countries. This analysis will help identify geographical patterns, clusters, and areas with untapped potential for renewable energy development.
 
 ![mapped](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanmap.png)
 
