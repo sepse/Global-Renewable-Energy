@@ -61,7 +61,8 @@ In the Balkans, Albania stands out as the leading producer of renewable energy, 
 
 ![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanenergy.png)
 
-Mapped balkan renewable power plants
+### Mapped balkan renewable power plants
+
 ![mapped](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanmap.png)
 
 Trough this research we have: 
