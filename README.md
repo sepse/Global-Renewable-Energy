@@ -57,9 +57,9 @@ As the above map indicates, China, US, Brasil, Canada and India have a lot of re
 
 ### Balkan snapshot
 
-![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanenergy.png)
-
 In the Balkans, Albania stands out as the leading producer of renewable energy, followed by Montenegro and Bosnia. The primary source of renewable energy generation in these countries is hydroelectric power. These countries, boast significant number of rivers and water resources, making it ideal for hydroelectric projects. Their abundant waterways have allowed the countries to harness their hydro potential effectively, making them top producers of renewable energy in the region. This emphasis on hydro power demonstrates the regions' potential to utilizing sustainable energy sources and promoting environmental sustainability.
+
+![capacity](https://github.com/sepse/Global-Renewable-Energy/blob/7b5fb7d85d53d650c745fb3c15b1407cce7c9167/Graphics/balkanenergy.png)
 
  ### Mapped Balkan renewable power plants
 By leveraging the location data available in the dataset, we can perform spatial analysis to visualize the distribution of renewable energy power plants across the Balkan countries. This analysis will help identify geographical patterns, clusters, and areas with untapped potential for renewable energy development.
