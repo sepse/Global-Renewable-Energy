@@ -78,4 +78,4 @@ Trough this research we have achieved the following:
 
 ***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.***
 
-**The Notebooks:** [Global Power Plants](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Noise_Pollution_HS.ipynb)
+**The Notebooks:** [Global Power Plants](https://github.com/sepse/Global-Renewable-Energy/blob/f99d4460377f2eb809fcfeb76261e7047e808428/Global_Power.ipynb)
